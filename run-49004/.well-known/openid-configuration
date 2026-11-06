@@ -1,0 +1,1 @@
+{"issuer":"https://rajeevmahajanjsr.github.io/oidc-issuer-lab/run-49004","jwks_uri":"https://rajeevmahajanjsr.github.io/oidc-issuer-lab/run-49004/jwks.json","response_types_supported":["id_token"],"subject_types_supported":["public"],"id_token_signing_alg_values_supported":["RS256"]}
